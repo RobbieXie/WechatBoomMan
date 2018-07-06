@@ -1,0 +1,1 @@
+Internship trainning demo - Wechat game 'BoomMan'
